@@ -1,3 +1,4 @@
+This Type of Readme makes it easy for me to capture the objective anytime i check my github repository
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 What is source code management
